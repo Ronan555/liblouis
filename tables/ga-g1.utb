@@ -9,9 +9,7 @@
 #+grade:1
 #+system:INBAF
 #
-# TODO: Please add a reference to official documentation about
-# the implemented braille code. Preferably submit the documents
-# to https://github.com/liblouis/braille-specs.
+# INBAF Specification ratified May 27 2019 specification in Braille-Specs Irish Braille Specification - INBAF 27 May 2019.pdf
 # -----------
 #
 #  Copyright (C) 2004-2006 JJB Software, Inc. www.jjb-software.com
