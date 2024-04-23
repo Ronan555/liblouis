@@ -9,7 +9,12 @@
 #+grade:1
 #+system:INBAF
 #
+<<<<<<< HEAD
 # INBAF Specification ratified May 27 2019 specification in Braille-Specs Irish Braille Specification - INBAF 27 May 2019.pdf
+=======
+# Updated Irish Braille (UIB) version 2019 by INBAF (ratified May 27 2019):
+# http://liblouis.org/braille-specs/irish/#updated-irish-braille-2019
+>>>>>>> 8ba6800d61428a50bd6921db8ed72a4373a895a2
 # -----------
 #
 #  Copyright (C) 2004-2006 JJB Software, Inc. www.jjb-software.com

@@ -31,7 +31,7 @@
 * ../../tables/de-g2.ctb                        German fully contracted braille
 * ../../tables/dra.tbl                          Dravidian computer braille
 * ../../tables/el.tbl                           Greek braille
-* ../../tables/gr-bb.ctb                        Ancient Greek braille
+  ../../tables/grc-international-en.utb         Greek international braille as used by the English-speaking
 * ../../tables/fa-ir-comp8.ctb                  Persian computer braille
 * ../../tables/fa-ir-g1.utb                     Persian braille
   ../../tables/en-ueb-g1.ctb                    English (UEB) uncontracted braille
@@ -40,8 +40,10 @@
 * ../../tables/en-gb-g1.utb                     U.K. English uncontracted braille
 * ../../tables/en_GB.tbl                        U.K. English contracted braille
 * ../../tables/en-gb-comp8.ctb                  U.K. English computer braille
+  ../../tables/en-nabcc.utb                     North American Braille Computer Code
   ../../tables/en-us-g1.ctb                     U.S. English (EBAE) uncontracted braille
-  ../../tables/en_US-comp8-ext.tbl              U.S. English (EBAE) computer braille
+  ../../tables/en-us-comp6.ctb                  U.S. English (EBAE) 6-dot computer braille
+  ../../tables/en_US-comp8-ext.tbl              U.S. English (EBAE) 8-dot computer braille
   ../../tables/en_US.tbl                        U.S. English (EBAE) contracted braille
 * ../../tables/eo.tbl                           Esperanto braille
 * ../../tables/eo-g1-x-system.ctb               Esperanto x-system braille
@@ -49,14 +51,13 @@
 * ../../tables/es-g2.ctb                        Spanish contracted braille
 * ../../tables/Es-Es-G0.utb                     Spanish computer braille
 * ../../tables/et.tbl                           Estonian computer braille
-* ../../tables/fi.tbl                           Finnish computer braille
 * ../../tables/fi.utb                           Finnish braille
 * ../../tables/fi-fi-8dot.ctb                   Finnish computer braille
   ../../tables/fr-bfu-comp6.utb                 Unified French 6 dots braille
   ../../tables/fr-bfu-comp8.utb                 Unified French 8 dots braille
   ../../tables/fr-bfu-g2.ctb                    Unified French contracted braille
 * ../../tables/ga-g1.utb                        Irish uncontracted braille
-* ../../tables/ga.tbl                           Irish contracted braille
+* ../../tables/ga-g2.ctb                        Irish contracted braille
 * ../../tables/gd.tbl                           Scottish Gaelic computer braille
 * ../../tables/gez.tbl                          Ethiopic braille
 * ../../tables/gon.tbl                          Gondi braille
@@ -136,5 +137,5 @@
 * ../../tables/zh_HK.tbl                        Cantonese braille
   ../../tables/zh_TW.tbl                        Taiwanese braille
   ../../tables/zhcn-g1.ctb                      Mainland Chinese braille with tone
-  ../../tables/zhcn-g2.ctb                      Two-cell Chinese Braille
+  ../../tables/zhcn-g2.ctb                      Two-cell Chinese braille
 

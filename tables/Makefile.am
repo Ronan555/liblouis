@@ -27,7 +27,7 @@ table_files = \
 	ca-chardefs.cti \
 	ca-g1.ctb \
 	ca.tbl \
-	chardefs.cti \
+	en-chardefs.cti \
 	chr-us-g1.ctb \
 	ckb-chardefs.cti \
 	ckb-g1.ctb \
@@ -84,7 +84,6 @@ table_files = \
 	dra.ctb \
 	dra.tbl \
 	el.ctb \
-	el.tbl \
 	en_CA.ctb \
 	en_CA.tbl \
 	en-chess.ctb \
@@ -93,6 +92,7 @@ table_files = \
 	en-GB-g2.ctb \
 	en_GB.tbl \
 	en-in-g1.ctb \
+	en-nabcc.utb \
 	en-ueb-chardefs.uti \
 	en-ueb-g1.ctb \
 	en-ueb-g2.ctb \
@@ -102,7 +102,7 @@ table_files = \
 	en-us-comp8.ctb \
 	en_US-comp8-ext.tbl \
 	en-us-comp8-ext.utb \
-	en-us-compbrl.ctb \
+	en-us-compbrl.uti \
 	en-us-g1.ctb \
 	en-us-g2.ctb \
 	en-us-interline.ctb \
@@ -128,8 +128,6 @@ table_files = \
 	fi1.ctb \
 	fi2.ctb \
 	fi-fi-8dot.ctb \
-	fi-fi.ctb \
-	fi.tbl \
 	fi.utb \
 	fr-bfu-comp68.cti \
 	fr-bfu-comp6.utb \
@@ -137,13 +135,15 @@ table_files = \
 	fr-bfu-g2.ctb \
 	ga-g1.utb \
 	ga-g2.ctb \
-	ga.tbl \
 	gd.ctb \
 	gd.tbl \
 	gez.tbl \
 	gon.ctb \
 	gon.tbl \
-	gr-bb.ctb \
+	grc-international-en.utb \
+	grc-international-common.uti \
+	grc-international-composed.uti \
+	grc-international-decomposed.uti \
 	gr-pl-comp8.uti \
 	gu-in-g1.utb \
 	gujarati.cti \
@@ -164,6 +164,7 @@ table_files = \
 	hu-backtranslate-correction.dis \
 	hu-chardefs.cti \
 	hu-exceptionwords.cti \
+	hu-hu-g1_braille_input.cti \
 	hu-hu-comp8.ctb \
 	hu-hu-g1.ctb \
 	hu-hu-g2.ctb \
@@ -343,7 +344,6 @@ table_files = \
 	ukmaths_single_cell_defs.cti \
 	ukmaths_unicode_defs.cti \
 	unicode-braille.utb \
-	unicodedefs.cti \
 	unicode.dis \
 	unicode-without-blank.dis \
 	uni-text.dis \
