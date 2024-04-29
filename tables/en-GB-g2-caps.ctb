@@ -1,0 +1,29 @@
+# liblouis: Classic SEB Grade 2 with capitalisation -   U.K. English  table
+# Revised 2024  by Ronan McGuirk Voice of Vision Impairment www.vvi.ie
+# This revision of English Braille will provide a Grade1 and Grade 2 capitalised and non-capitalised version
+# The main code is in the non-capitalised tables. The capitalised tables are provided by simply including the non-capitalised tables and a set of rules for capitalisation.
+  # This will be upgraded to improve back-translation.
+#
+#  Copyright (C) 2004-2008 ViewPlus Technologies, Inc. www.viewplus.com
+#  Copyright (C) 2004-2006 JJB Software, Inc. www.jjb-software.com
+#  Copyright (C) 2012,2014 Torch Trust, www.torchtrust.org
+#
+#  This file is part of liblouis.
+#
+#  liblouis is free software: you can redistribute it and/or modify it
+#  under the terms of the GNU Lesser General Public License as
+#  published by the Free Software Foundation, either version 2.1 of the
+#  License, or (at your option) any later version.
+#
+#  liblouis is distributed in the hope that it will be useful, but
+#  WITHOUT ANY WARRANTY; without even the implied warranty of
+#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+#  Lesser General Public License for more details.
+#
+#  You should have received a copy of the GNU Lesser General Public
+#  License along with liblouis. If not, see
+#  <http://www.gnu.org/licenses/>.
+
+include en-gb-caprules.uti
+include en-gb-g2-nocaps.ctb
+
