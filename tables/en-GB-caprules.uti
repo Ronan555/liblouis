@@ -1,5 +1,6 @@
 #Capitalisation rules for optional incorporation in classic SEB UK Braille  
 # Revised 2024  by Ronan McGuirk Voice of Vision Impairment www.vvi.ie
+# Copyright (c) 2024 ronan McGuirk www.vvi.ie
 # This revision of English Braille will provide a Grade1 and Grade 2 capitalised and non-capitalised version
 # The main code is in the non-capitalised tables. The capitalised tables are provided by simply including the non-capitalised tables and a set of rules for capitalisation.
   # This will be upgraded to improve back-translation.
